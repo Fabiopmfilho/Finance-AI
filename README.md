@@ -18,6 +18,7 @@ bun dev
   `npm install -D prettier prettier-plugin-tailwindcss`
 
 - shadcn
+- clerk [criar autenticações]
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
