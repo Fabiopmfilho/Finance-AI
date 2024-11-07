@@ -19,6 +19,8 @@ bun dev
 
 - shadcn
 - clerk [criar autenticações]
+- husky
+- lint staged
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
