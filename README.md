@@ -21,6 +21,7 @@ bun dev
 - clerk [criar autenticações]
 - husky
 - lint staged
+- git commit msg linter
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
