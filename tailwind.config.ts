@@ -11,6 +11,7 @@ const config: Config = {
     extend: {
       colors: {
         danger: "#E93030",
+        tableHead: "hsla(0, 0%, 100%, 0.08)",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
